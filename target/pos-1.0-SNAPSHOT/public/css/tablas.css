@@ -1,0 +1,12 @@
+thead tr th{
+    font-size: .9rem;
+    font-weight: bold;
+}
+tr td{
+    font-size: .8rem;
+}
+
+tbody tr:hover
+{
+    background: rgb(19,170,82) !important;
+}

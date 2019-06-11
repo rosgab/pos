@@ -1,0 +1,10 @@
+com\fariscom\pos\pos\Entity\Cliente.class
+com\fariscom\pos\pos\Db\db.class
+com\fariscom\pos\pos\Models\ClienteModel.class
+com\fariscom\pos\pos\Db\DbConection.class
+com\fariscom\pos\pos\Controllers\ClientesController.class
+com\fariscom\pos\pos\Service\JSON.class
+com\fariscom\pos\pos\Controllers\IndexController.class
+com\fariscom\pos\pos\Service\crud.class
+com\fariscom\pos\pos\Service\Entity.class
+com\fariscom\pos\pos\Service\List.class
